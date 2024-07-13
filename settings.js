@@ -9,14 +9,14 @@ global.apikeys = 'Apikeylu'
 // Info Owner
 global.owner = ['6285760451683']
 global.nomorown = "6285760451683"
-global.ownername = "Xyroınee-ID."
-global.ownerNumber = ["6285760451683@s.whatsapp.net"]
-global.creator = "6285760451683@s.whatsapp.net"
-global.author = "Clara - MD"
+global.ownername = "SKYZO STOREE."
+global.ownerNumber = ["6285603832631@s.whatsapp.net"]
+global.creator = "6285603832631@s.whatsapp.net"
+global.author = "SKYZO STOREE"
 global.location = "Indonesia"
 
 //Bot Setting
-global.botname = "Clara - MD"
+global.botname = "SKYZO - XD"
 global.wm = "Follow Instagram: danilelistz02"
 global.packname = "Sticker By"
 global.prefa = ['','!','.','#','&','`']
